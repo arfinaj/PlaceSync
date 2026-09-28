@@ -1,12 +1,12 @@
-# Placement Management System
+PlaceSync - A Placement Management System
 
 An AI-powered Placement Management System built using the MERN Stack.
 
-## 📌 Overview
+Overview
 
 This project is designed to streamline the campus placement process by providing a centralized platform for Students, Recruiters, and Placement Officers (TPOs).
 
-## 🚀 Tech Stack
+#Tech Stack
 
 - MongoDB
 - Express.js
@@ -14,7 +14,7 @@ This project is designed to streamline the campus placement process by providing
 - Node.js
 - Tailwind CSS
 
-## ✨ Planned Features
+## Planned Features
 
 - Student Portal
 - Recruiter Portal
