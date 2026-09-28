@@ -6,6 +6,12 @@ Overview
 
 This project is designed to streamline the campus placement process by providing a centralized platform for Students, Recruiters, and Placement Officers (TPOs).
 
+<img width="1901" height="902" alt="image" src="https://github.com/user-attachments/assets/2abe9953-5a30-4502-8abd-acaae352865d" />
+
+
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/c2c678c8-f764-425d-b681-f220dfce589a" />
+
+
 ## 🚀 Getting Started
 
 Clone the repository:
