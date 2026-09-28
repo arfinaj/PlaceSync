@@ -6,6 +6,41 @@ Overview
 
 This project is designed to streamline the campus placement process by providing a centralized platform for Students, Recruiters, and Placement Officers (TPOs).
 
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/arfinaj/placesync.git
+```
+
+Navigate into the project:
+
+```bash
+cd placesync
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+If you'd like to collaborate or connect, feel free to reach out!
+
+
 #Tech Stack
 
 - MongoDB
