@@ -11,6 +11,9 @@ This project is designed to streamline the campus placement process by providing
 
 <img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/c2c678c8-f764-425d-b681-f220dfce589a" />
 
+<img width="1896" height="902" alt="image" src="https://github.com/user-attachments/assets/cd987079-87ce-4cf5-a30b-7732c54961b7" />
+
+
 
 ## 🚀 Getting Started
 
